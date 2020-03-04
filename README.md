@@ -12,12 +12,13 @@ You should be able to interact with your code via a REPL from Microsoft Visual S
 ## Installation / Usage
 
 To install:
-$ git clone https://github.com/JonathanPalma-code/Bank_tech_test
-$ cd Bank_tech_test
+$ git clone https://github.com/JonathanPalma-code/SalaryManagement
+
+Open with Microsoft Visual Studio.
 
 To Use:
 ![2020-03-04 (2)](https://user-images.githubusercontent.com/55409351/75904629-765b5580-5e3b-11ea-92a9-690d74571a06.png)
 
 ## UML
 
-![SalaryManagementUML](https://user-images.githubusercontent.com/55409351/75904328-e9180100-5e3a-11ea-83b5-cae87f0f17db.png)
+![SalaryManagementUML](https://user-images.githubusercontent.com/55409351/75905538-ecac8780-5e3c-11ea-8ddf-1fe741a0df6b.png)
