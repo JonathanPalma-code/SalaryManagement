@@ -17,6 +17,7 @@ $ git clone https://github.com/JonathanPalma-code/SalaryManagement
 Open with Microsoft Visual Studio.
 
 To Use:
+
 ![2020-03-04 (2)](https://user-images.githubusercontent.com/55409351/75904629-765b5580-5e3b-11ea-92a9-690d74571a06.png)
 
 ## UML
