@@ -1,0 +1,11 @@
+C:\Users\jonat\Documents\C#\Projects\SalaryManagement\bin\Debug\netcoreapp3.1\SalaryManagement.exe
+C:\Users\jonat\Documents\C#\Projects\SalaryManagement\bin\Debug\netcoreapp3.1\SalaryManagement.deps.json
+C:\Users\jonat\Documents\C#\Projects\SalaryManagement\bin\Debug\netcoreapp3.1\SalaryManagement.runtimeconfig.json
+C:\Users\jonat\Documents\C#\Projects\SalaryManagement\bin\Debug\netcoreapp3.1\SalaryManagement.runtimeconfig.dev.json
+C:\Users\jonat\Documents\C#\Projects\SalaryManagement\bin\Debug\netcoreapp3.1\SalaryManagement.dll
+C:\Users\jonat\Documents\C#\Projects\SalaryManagement\bin\Debug\netcoreapp3.1\SalaryManagement.pdb
+C:\Users\jonat\Documents\C#\Projects\SalaryManagement\obj\Debug\netcoreapp3.1\SalaryManagement.csprojAssemblyReference.cache
+C:\Users\jonat\Documents\C#\Projects\SalaryManagement\obj\Debug\netcoreapp3.1\SalaryManagement.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\C#\Projects\SalaryManagement\obj\Debug\netcoreapp3.1\SalaryManagement.AssemblyInfo.cs
+C:\Users\jonat\Documents\C#\Projects\SalaryManagement\obj\Debug\netcoreapp3.1\SalaryManagement.dll
+C:\Users\jonat\Documents\C#\Projects\SalaryManagement\obj\Debug\netcoreapp3.1\SalaryManagement.pdb
