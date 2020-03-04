@@ -14,11 +14,11 @@ You should be able to interact with the code via a REPL from Microsoft Visual St
 To install:
 $ git clone https://github.com/JonathanPalma-code/SalaryManagement
 
-Open with Microsoft Visual Studio.
+Open the Debugger Console in Microsoft Visual Studio.
 
 To Use:
 
-![2020-03-04 (1)](https://user-images.githubusercontent.com/55409351/75906037-ed91e900-5e3d-11ea-9b62-c9004e0df805.png)
+![ezgif com-crop](https://user-images.githubusercontent.com/55409351/75909166-73646300-5e43-11ea-8c4b-07e4be5e8d8b.gif)
 
 ## UML
 
